@@ -1,29 +1,15 @@
 # swift-agents-claude-code
 A series of customized SwiftUI agents for Claude Code ✨💎
 
-# 🎯 Swift & iOS Claude Agents - Elite SwiftUI Specialists for Claude Code
-
 > **Transform Claude Code into your personal iOS development team with a set of hyper-specialized SwiftUI agents.** Expert assistance for animations, design consistency, onboarding flows, code management, and data persistence.
 
-[![GitHub stars](https://img.shields.io/github/kswan28/swift-agents-claude-code?style=social)](https://github.com/kswan28/swift-agents-claude-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude%20Code-Compatible-blue)](https://claude.ai)
 [![Agents: 5](https://img.shields.io/badge/Agents-5-green)](https://github.com/kswan28/swift-agents-claude-code)
 
 ## 🎯 What are Swift & iOS Claude Agents?
 
-Swift & iOS Claude Agents is a curated collection of AI-powered specialists designed to enhance Claude Code with deep SwiftUI and iOS development expertise. Whether you're building delightful animations, ensuring design consistency, creating onboarding flows, managing code changes, or implementing data persistence, these agents provide expert-level assistance following Apple's design guidelines.
-
-### Key Features:
-- **5 Specialized SwiftUI Agents**: Covering animation, design, onboarding, rollbacks, and data persistence
-- **Apple Design Guidelines**: Each agent follows iOS Human Interface Guidelines
-- **Performance Optimized**: All agents use Claude Sonnet 4 for optimal performance
-- **Zero Configuration**: Works instantly with Claude Code
-- **Production Ready**: Battle-tested patterns for iOS apps
-
-## The SwiftUI Power-Up You've Been Waiting For
-
-Imagine having instant access to 5 world-class iOS specialists, each a master of their SwiftUI craft. No more generic advice. No more non-iOS patterns. Just deep, iOS-focused expertise on demand.
+Swift & iOS Claude Agents is a curated collection of AI-powered specialists designed to enhance Claude Code with deep SwiftUI and iOS development expertise. Whether you're building delightful animations, ensuring design consistency, creating onboarding flows, managing code changes, or implementing data persistence, these agents provide expert-level assistance that follow Apple's design guidelines.
 
 ## ⚡ Lightning Setup - Install Swift Agents in Seconds
 
@@ -135,8 +121,8 @@ Based on your answers, I'll create a polished onboarding flow...
 
 ## Meet Your SwiftUI Specialists
 
-### 🎨 shake-it-off - The Animation Virtuoso
-When your UI needs that perfect touch of delight:
+### 💃 shake-it-off - The Animation Expert
+When your UI needs a touch of delight:
 - Analyzes SwiftUI Views for animation opportunities
 - Adds native, performance-optimized animations
 - Follows Apple's motion guidelines
@@ -144,8 +130,8 @@ When your UI needs that perfect touch of delight:
 
 **Perfect for:** Button feedback, state transitions, loading animations, micro-interactions
 
-### 🎯 style - The Design System Guardian  
-When your app's visual consistency needs attention:
+### 💄 style - The Design System Guardian  
+When you want to make sure every page is that red lip classic thing that you like:
 - Audits typography, spacing, and color usage
 - Identifies design system inconsistencies
 - Provides actionable improvement reports
@@ -262,78 +248,6 @@ Based on your answers:
 [Builds comprehensive SwiftUI onboarding with proper navigation and permissions]
 ```
 
-## Why This Changes Your SwiftUI Development
-
-### 🎯 iOS-Native Excellence
-Each agent specializes in SwiftUI and iOS patterns. No generic web advice.
-
-### 🧠 Apple Guidelines Compliance  
-All agents follow Apple's Human Interface Guidelines and design principles.
-
-### ⚡ Instant SwiftUI Expertise
-No ramp-up time. Each agent comes pre-loaded with iOS development experience.
-
-### 💰 Optimized Performance
-All agents use Claude Sonnet 4 for the perfect balance of capability and cost.
-
-## 📋 Complete Swift Agent Roster
-
-### 🎨 Animation & Interaction Specialists
-`shake-it-off` - Adds delightful, performance-optimized SwiftUI animations to Views
-
-### 🎯 Design & Consistency Experts  
-`style` - Audits and fixes typography, spacing, and visual inconsistencies
-
-### 🚀 User Experience Architects
-`welcome-to-new-york` - Creates polished onboarding flows with permission handling
-
-### ⏪ Development Tools & Workflow
-`back-to-december` - Safely manages code rollbacks and session history
-
-### 💾 Data & Persistence Masters
-`long-live` - Implements robust SwiftData solutions for app data storage
-
-## Start Building Better SwiftUI Apps Now
-
-```bash
-# Example: Improve app animations
-"My SwiftUI buttons feel unresponsive"
-/agents → Select shake-it-off (adds button animations)
-/agents → Select style (ensures consistent interaction patterns)
-```
-
-```bash
-# Example: Launch preparation  
-"My app is ready to ship but needs polish"
-/agents → Select style (design audit)
-/agents → Select welcome-to-new-york (onboarding flow)  
-/agents → Select long-live (data persistence check)
-```
-
-## 🌟 Why Choose Swift & iOS Claude Agents?
-
-### For iOS Developers
-- **SwiftUI Focused**: Every agent understands SwiftUI patterns and best practices
-- **Apple Guidelines**: All recommendations follow iOS Human Interface Guidelines
-- **Performance Optimized**: Solutions designed for smooth 60fps iOS experiences
-
-### For Teams
-- **Consistent iOS Standards**: All agents follow the same iOS development principles
-- **Knowledge Sharing**: Team members get equal access to SwiftUI expertise
-- **Faster Reviews**: Automated consistency checks and pattern validation
-
-### For App Studios
-- **Professional Quality**: Enterprise-grade iOS development patterns
-- **Client Ready**: Production-ready code that impresses clients
-- **Rapid Iteration**: Build, polish, and ship iOS apps faster
-
-## 📈 Performance & Quality
-
-Each agent is optimized for:
-- **Native Performance**: Solutions designed for iOS performance characteristics
-- **Accessibility**: Built-in support for VoiceOver and Dynamic Type
-- **Best Practices**: Industry-standard iOS development patterns
-
 ## 🔍 Keywords for Discovery
 
 SwiftUI Claude agents, iOS development AI, Claude Code SwiftUI, SwiftUI animations, iOS design consistency, SwiftUI onboarding, SwiftData persistence, iOS code management, SwiftUI best practices, Apple design guidelines, iOS app development AI, SwiftUI performance optimization
@@ -342,11 +256,11 @@ SwiftUI Claude agents, iOS development AI, Claude Code SwiftUI, SwiftUI animatio
 
 ## 👨‍💻 About the Creator
 
-Built with passion for iOS developers who create apps users love. This collection represents deep SwiftUI expertise and Apple design guideline knowledge, distilled into 5 powerful AI specialists.
+This app was built by Tiny App Studio to make your use of Claude Code for iOS apps more pleasant and fun. Enjoy!
 
 ## 📜 License
 
-MIT License - Use these agents freely in your iOS projects!
+MIT License - Use these agents freely in your iOS and Claude Code projects!
 
 ## 🤝 Contributing  
 
