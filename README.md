@@ -236,12 +236,18 @@ Based on your answers:
 
 SwiftUI Claude agents, iOS development AI, Claude Code SwiftUI, SwiftUI animations, iOS design consistency, SwiftUI onboarding, SwiftData persistence, iOS code management, SwiftUI best practices, Apple design guidelines, iOS app development AI, SwiftUI performance optimization
 
----
-
-## 👨‍💻 About the Creator
-
-This app was built by Tiny App Studio to make your use of Claude Code for iOS apps more pleasant and fun. Enjoy!
-
 ## 📜 License
 
 MIT License - Use these agents freely in your iOS and Claude Code projects!
+
+## 👨‍💻 Contact
+
+**Kristen Swanson**
+
+- App Store: [Developer Profile](https://apps.apple.com/us/developer/kristen-swanson/id1754882765)
+- GitHub: [@kswan28](https://github.com/kswan28)
+- Website: [tinyapp.studio](https://www.tinyapp.studio)
+
+-----
+
+*Built with ❤️ using SwiftUI and modern iOS development practices*
