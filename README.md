@@ -13,15 +13,7 @@ Swift & iOS Claude Agents is a curated collection of AI-powered specialists desi
 
 ## ⚡ Lightning Setup - Install Swift Agents in Seconds
 
-### Method 1: Using Claude Code (Recommended)
-```bash
-# In Claude Code, use the agents command
-/agents
-
-# Then manually create each agent and copy content from the GitHub files
-```
-
-### Method 2: Clone and Copy
+### Method 1: Clone and Copy (Recommended)
 ```bash
 # Clone the repository
 git clone https://github.com/kswan28/swift-agents-claude-code.git
@@ -36,18 +28,12 @@ rm -rf swift-agents-claude-code
 # That's it. Your SwiftUI game just leveled up.
 ```
 
-### Method 3: Direct Download (All Agents)
+### Method 2: Using Claude Code Manually
 ```bash
-# Create agents directory
-mkdir -p ~/.claude/agents
-cd ~/.claude/agents
+# In Claude Code, use the agents command
+/agents
 
-# Download all agent files
-curl -O https://raw.githubusercontent.com/kswan28/swift-agents-claude-code/main/back-to-december.md
-curl -O https://raw.githubusercontent.com/kswan28/swift-agents-claude-code/main/long-live.md
-curl -O https://raw.githubusercontent.com/kswan28/swift-agents-claude-code/main/shake-it-off.md
-curl -O https://raw.githubusercontent.com/kswan28/swift-agents-claude-code/main/style.md
-curl -O https://raw.githubusercontent.com/kswan28/swift-agents-claude-code/main/welcome-to-new-york.md
+# Then manually create each agent and copy content from the GitHub files for each agent
 ```
 
 ## 🎯 How to Use Swift Agents with Claude Code
