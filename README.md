@@ -261,19 +261,3 @@ This app was built by Tiny App Studio to make your use of Claude Code for iOS ap
 ## 📜 License
 
 MIT License - Use these agents freely in your iOS and Claude Code projects!
-
-## 🤝 Contributing  
-
-Found ways to improve an agent? Have ideas for new SwiftUI specialists? Contributions are welcome! Please check our [contribution guidelines](CONTRIBUTING.md).
-
-## ⭐ Support the Project
-
-If Swift & iOS Claude Agents helps you build better iOS apps, please star the repository!
-
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/claude-code-agents?style=social)](https://github.com/kswan28/swift-agents-claude-code)
-
----
-
-**Swift & iOS Claude Agents** - *Transform Claude Code into Your Personal iOS Development Team*
-
-*🔗 [GitHub](https://github.com/kswan28/swift-agents-claude-code) | 💬 [Issues](https://github.com/kswan28/swift-agents-claude-code/issues) | 📱 [iOS Development](https://developer.apple.com)*
