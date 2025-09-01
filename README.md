@@ -170,12 +170,10 @@ When your app needs robust data storage:
 
 ### Scenario: "My SwiftUI app feels boring and static"
 ```bash
-$ claude code
-
-You: My SwiftUI app works but feels lifeless. Can you help make it more engaging?
 You: /agents
 [Select shake-it-off]
 
+You: My SwiftUI app works but feels lifeless. Can you help make it more engaging?
 shake-it-off: I'll add delightful animations to your SwiftUI app.
 
 Share your View code and I'll identify key interaction points that would benefit from animation:
@@ -191,10 +189,10 @@ Let's make your app feel alive and responsive...
 
 ### Scenario: "My app's design is inconsistent"
 ```bash
-You: Different screens in my app look like they were designed by different people
 You: /agents
 [Select style]
 
+You: Different screens in my app look like they were designed by different people
 style: I'll audit your entire app's design system.
 
 Please share your SwiftUI files and I'll analyze:
@@ -225,10 +223,10 @@ Please share your SwiftUI files and I'll analyze:
 
 ### Scenario: "Need to add user onboarding"
 ```bash
-You: My app needs a smooth onboarding experience for new users
 You: /agents
 [Select welcome-to-new-york]
 
+You: My app needs a smooth onboarding experience for new users
 welcome-to-new-york: I'll create your onboarding flow.
 
 First, let me understand your requirements:
