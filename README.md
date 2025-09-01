@@ -11,7 +11,7 @@ A series of customized SwiftUI agents for Claude Code ✨💎
 
 Swift & iOS Claude Agents is a curated collection of AI-powered specialists designed to enhance Claude Code with deep SwiftUI and iOS development expertise. Whether you're building delightful animations, ensuring design consistency, creating onboarding flows, managing code changes, or implementing data persistence, these agents provide expert-level assistance that follow Apple's design guidelines.
 
-## ⚡ Lightning Setup - Install Swift Agents in Seconds
+## ⚡ Quick Setup
 
 ### Method 1: Clone and Copy (Recommended)
 ```bash
